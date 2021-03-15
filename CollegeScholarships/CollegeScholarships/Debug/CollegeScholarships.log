@@ -1,0 +1,9 @@
+﻿  Faculty.cpp
+C:\Users\alexs\Desktop\MyFirstProject\CollegeScholarships\CollegeScholarships\Faculty.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alexs\Desktop\MyFirstProject\CollegeScholarships\CollegeScholarships\Faculty.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alexs\Desktop\MyFirstProject\CollegeScholarships\CollegeScholarships\Faculty.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alexs\Desktop\MyFirstProject\CollegeScholarships\CollegeScholarships\Faculty.h(26,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\alexs\Desktop\MyFirstProject\CollegeScholarships\CollegeScholarships\Faculty.cpp(30,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\memory(3580,56): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\alexs\Desktop\MyFirstProject\CollegeScholarships\CollegeScholarships\Faculty.cpp(93): message : see reference to function template instantiation 'std::unique_ptr<sma::ListOfPotentialSocialScholarshipHolders,std::default_delete<sma::ListOfPotentialSocialScholarshipHolders>> std::make_unique<sma::ListOfPotentialSocialScholarshipHolders,unsigned int&,double&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>&,unsigned int&,0>(unsigned int &,double &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &,unsigned int &)' being compiled
+  CollegeScholarships.vcxproj -> C:\Users\alexs\Desktop\MyFirstProject\CollegeScholarships\Debug\CollegeScholarships.exe

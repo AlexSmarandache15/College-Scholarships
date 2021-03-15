@@ -1,0 +1,28 @@
+Excellence
+
+Cycle: License
+
+
+Specialization: CEN
+
+Year: 2
+Nr	Code GDPR	Points:
+1	9WQA2RVZS5	60
+
+Specialization: CR
+
+Year: 1
+Nr	Code GDPR	Points:
+1	7USBYAIXVM	80
+Year: 3
+Nr	Code GDPR	Points:
+2	TGYN2P4MDA	35
+
+Cycle: Master
+
+
+Specialization: ISB
+
+Year: 1
+Nr	Code GDPR	Points:
+1	9ETYQPZDJH	130

@@ -1,0 +1,168 @@
+Social
+
+Cycle: License
+
+
+Specialization: AIA
+
+Year: 1
+Nr	Code GDPR	Income:
+1	W09V6MKUHX	AverageIncome: 1301	Other mention: 	orphan
+2	PH4CTR8ML0	AverageIncome: 6	Other mention: 	sick
+3	L5U0F2CZBT	AverageIncome: 992
+Year: 2
+Nr	Code GDPR	Income:
+4	KABUH0WQCJ	AverageIncome: 979	Other mention: 	orphan
+5	H7A0L5PTZE	AverageIncome: 1311	Other mention: 	orphan	sick
+6	XZ571QC3DW	AverageIncome: 220
+7	9RTBS6IEN3	AverageIncome: 1084
+Year: 3
+Nr	Code GDPR	Income:
+8	IYDE1CWAH8	AverageIncome: 485
+9	GED7FV8M5U	AverageIncome: 1030
+Year: 4
+Nr	Code GDPR	Income:
+10	7TFBGREO4K	AverageIncome: 997	Other mention: 	orphan
+11	YOZ6UAJIXG	AverageIncome: 744
+12	DAF3ZW4VPE	AverageIncome: 1004
+13	9E2V063MNQ	AverageIncome: 1226
+
+Specialization: CEN
+
+Year: 1
+Nr	Code GDPR	Income:
+1	D4WBFTL060	AverageIncome: 290
+2	JR3GDQ1A0X	AverageIncome: 610
+3	J4EGKZPAVM	AverageIncome: 707
+Year: 2
+Nr	Code GDPR	Income:
+4	5NPURE9TKQ	AverageIncome: 249
+5	QLCTY0RF2I	AverageIncome: 885
+6	RGXWMV0C3N	AverageIncome: 1343
+Year: 3
+Nr	Code GDPR	Income:
+7	LD291H8WGO	AverageIncome: 1335	Other mention: 	orphan
+8	V8E40L92F3	AverageIncome: 373
+9	IKCDMNOL6A	AverageIncome: 851
+Year: 4
+Nr	Code GDPR	Income:
+10	FMR6JNQWD9	AverageIncome: 443
+11	L6T4HF020Y	AverageIncome: 649
+12	EHX3C79MTS	AverageIncome: 1296
+
+Specialization: CR
+
+Year: 1
+Nr	Code GDPR	Income:
+1	7WK9VXGOPJ	AverageIncome: 162	Other mention: 	orphan
+2	KDLJ8I4M0Z	AverageIncome: 671	Other mention: 	orphan
+3	67XICMFJEL	AverageIncome: 923
+Year: 2
+Nr	Code GDPR	Income:
+4	1EVM5AZL8X	AverageIncome: 115
+5	50E182XGHK	AverageIncome: 1019
+Year: 3
+Nr	Code GDPR	Income:
+6	6DG9HL71Q2	AverageIncome: 791
+7	TGYN2P4MDA	AverageIncome: 1057
+8	3YLCB5MJIN	AverageIncome: 1088
+Year: 4
+Nr	Code GDPR	Income:
+9	8NAEULP4SM	AverageIncome: 158	Other mention: 	orphan
+10	SN6X57WZC3	AverageIncome: 682	Other mention: 	orphan
+11	QE4S1JOI3N	AverageIncome: 1193	Other mention: 	orphan
+12	3BYH10MLCE	AverageIncome: 1319
+
+Specialization: ELA
+
+Year: 2
+Nr	Code GDPR	Income:
+1	EOCPAXULM6	AverageIncome: 1060
+Year: 3
+Nr	Code GDPR	Income:
+2	97WFNHJMZ0	AverageIncome: 606
+Year: 4
+Nr	Code GDPR	Income:
+3	CMBUO8STPH	AverageIncome: 351
+
+Specialization: ISM
+
+Year: 1
+Nr	Code GDPR	Income:
+1	4OBM2UZA0W	AverageIncome: 744	Other mention: 	orphan
+2	8PS0WRLATN	AverageIncome: 1171	Other mention: 	sick
+3	8Z0M16K0YJ	AverageIncome: 397
+Year: 3
+Nr	Code GDPR	Income:
+4	O81NCSBUDX	AverageIncome: 8	Other mention: 	sick
+5	JQADG6NKCY	AverageIncome: 1063
+Year: 4
+Nr	Code GDPR	Income:
+6	9I0BRQON5X	AverageIncome: 791	Other mention: 	orphan
+
+Specialization: MR
+
+Year: 1
+Nr	Code GDPR	Income:
+1	QMXWL091OJ	AverageIncome: 1279
+2	IG36Q0NR7K	AverageIncome: 1302
+Year: 3
+Nr	Code GDPR	Income:
+3	5WLPMB03Y7	AverageIncome: 1196	Other mention: 	orphan
+4	570Y3AH2NU	AverageIncome: 528
+5	B8KE1AQG96	AverageIncome: 1001
+Year: 4
+Nr	Code GDPR	Income:
+6	R3A5VK7TFB	AverageIncome: 134	Other mention: 	orphan
+
+Cycle: Master
+
+
+Specialization: ICC
+
+Year: 1
+Nr	Code GDPR	Income:
+1	TA9K5N7V1P	AverageIncome: 557	Other mention: 	orphan
+2	6KB7WJP4I9	AverageIncome: 903
+
+Specialization: IS
+
+Year: 2
+Nr	Code GDPR	Income:
+1	YIOUDWLZ0B	AverageIncome: 1065	Other mention: 	orphan
+2	YIOUDWLZ0B	AverageIncome: 606
+
+Specialization: ISB
+
+Year: 1
+Nr	Code GDPR	Income:
+1	ISPNY1R2M4	AverageIncome: 928	Other mention: 	orphan
+Year: 2
+Nr	Code GDPR	Income:
+2	LOGRC5EP74	AverageIncome: 409
+
+Specialization: SAI
+
+Year: 1
+Nr	Code GDPR	Income:
+1	9L4YZ6HI5D	AverageIncome: 1173	Other mention: 	orphan
+2	8JQILY5UVB	AverageIncome: 75	Other mention: 	sick
+Year: 2
+Nr	Code GDPR	Income:
+3	0C4QMDF7LT	AverageIncome: 118	Other mention: 	orphan
+4	YIOUDWLZ0B	AverageIncome: 321
+
+Specialization: SCR
+
+Year: 1
+Nr	Code GDPR	Income:
+1	A050HDXRF1	AverageIncome: 558	Other mention: 	sick
+
+Specialization: TIIS
+
+1	5S09INRVZL	AverageIncome: 819	Other mention: 	orphan
+2	1FKYBRIP4S	AverageIncome: 961	Other mention: 	sick
+3	WMNZ3OIQ4Y	AverageIncome: 289
+Year: 2
+Nr	Code GDPR	Income:
+4	GQ724W890P	AverageIncome: 259
