@@ -3,7 +3,7 @@
 // CollegeScholarships
 //
 // Created by Alex Smarandache on 10/03/2021
-// Copyright © Alex Smarandache. All rights reserved. 
+// Copyright Â© Alex Smarandache. All rights reserved. 
 //
 
 #pragma once
@@ -28,11 +28,11 @@ namespace sma
 		const double& getAverage()                 const { return this->average_grades; }
 		const unsigned int& getYear()              const { return this->year; }
 		const unsigned int& getAge()	           const { return this->age; }
-		const bool& isIntegralist()		           const { return this->integralist; }
+		const bool& isIntegralist()		   const { return this->integralist; }
 		const bool& hasSocialDossier()             const { return this->social_dossier; }
 		const bool& isOrphan()                     const { return this->orphan; }
 		const bool& isSick()                       const { return this->sick; }
-		const bool& hasPerformanceDossier()		   const { return this->excellence_dossier; }
+		const bool& hasPerformanceDossier()	   const { return this->excellence_dossier; }
 		const unsigned int& getPerformancePoints() const { return this->performances_points; }
 
 		bool isEligibleForExcellence() const;
