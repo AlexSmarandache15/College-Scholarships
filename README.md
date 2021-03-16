@@ -16,10 +16,10 @@ Tasks
  <br /> <br />
 Based on the information on how to award scholarships and a text file containing information about all students of the faculty, we must determine who will be the scholarship holders of the faculty. The total amount of scholarships and other useful information are provided in another text file. The display of the scholarship holders will be grouped according to the type of scholarship, cycle, specialization, year, ordered descending according to priority.
  <br /> <br />
- Specifications:
-- the number of students is not known
-- the number of specializations or cycles is not known
-- students come in random order, not grouped by specializations or years
+ Specifications:<br />
+- the number of students is not known<br />
+- the number of specializations or cycles is not known<br />
+- students come in random order, not grouped by specializations or years<br />
 - the number of years of a specialization is also unknown
  <br
 All this information must be deduced from the built application.
