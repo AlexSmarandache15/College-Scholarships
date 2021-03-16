@@ -3,13 +3,8 @@
 // CollegeScholarships
 //
 // Created by Alex Smarandache on 10/03/2021
-// Copyright © Alex Smarandache. All rights reserved. 
+// Copyright Â© Alex Smarandache. All rights reserved. 
 //
-
-#include "ListOfPotentialScholarshipHolders.h"
-#include <unordered_map>
-#include <numeric>
-#include "algorithm"
 
 #include "Faculty.h"
 
@@ -20,12 +15,11 @@ int main(int argc, char* argv[])
 
 	try {
 		best_faculty.importData();
+		best_faculty.exportScholarships();
 	}
 	catch (std::exception e) {
 		std::cout << e.what() << std::endl;
 	}
-	
-	best_faculty.exportScholarships();
 
 	return 0;
 }
